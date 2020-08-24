@@ -518,7 +518,8 @@ hr {
     background: #f4976c; }
   .tile.tile-NaN .tile-inner {
     color: #2D2D2E;
-    background: #ECFFFF; }
+    background: #ECFFFF; 
+    font-size: 30px; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }
